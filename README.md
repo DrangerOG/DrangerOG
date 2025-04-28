@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**DrangerOG/DrangerOG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!---
+mtbr29/mtbr29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ***Hi There ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Mtbr29***
+
+
+[![](https://awesome-github-stats.azurewebsites.net/user-stats/mtbr29?cardType=github&theme=dark&preferLogin=false&Text=1DDD13&Title=21DD00)](https://git.io/awesome-stats-card)
+---
+
+### Languages and Tools:
+
+<p align="center">
+  <a href="https://mtbr29.dev">
+    <img src="https://skillicons.dev/icons?i=aiscript,blender,css,discord,bots,dotnet,github,html,htmx,php,py," />
+  </a>
+</p>
+
+---------------
