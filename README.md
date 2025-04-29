@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 ### Languages and Tools:
 
 <p align="center">
-  <a href="https://mtbr29.dev">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=discord,bots,github," />
   </a>
 </p>
